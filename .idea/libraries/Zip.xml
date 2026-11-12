@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Zip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/assets/dictionary/Zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
